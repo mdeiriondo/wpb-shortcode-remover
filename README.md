@@ -1,4 +1,4 @@
-WP Bakery Shortcode Remover
+## WP Bakery Shortcode Remover 
 
 Script to remove WPBakery shortcode tags while retaining the content inside
 The goal is to capture everything inside the shortcode tags and keep the 
